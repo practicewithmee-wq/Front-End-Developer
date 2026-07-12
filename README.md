@@ -234,7 +234,6 @@ Here are the different input types you can use in HTML:
 `<input type="text">` `<input type="time">` `<input type="url">`
 `<input type="week">`
 
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ex:- `18_Forms.html`
 
 ## HTML Multimedia
