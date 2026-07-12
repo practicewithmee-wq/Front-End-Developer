@@ -248,5 +248,4 @@ Web pages often contain multimedia elements of different types and formats.
 The HTML `<video>` element is used to show a video on a web page.       
 The HTML `<audio>` element is used to play an audio file on a web page.
 
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ex:- `19_Media.html`
